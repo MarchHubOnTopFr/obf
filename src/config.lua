@@ -7,7 +7,7 @@ config.settings = {
     watermark_enabled = true,
     final_print = true,
     VirtualMachine = {
-        enabled = false,
+        enabled = true,
     },
     control_flow = {
         enabled = true,
